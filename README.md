@@ -319,9 +319,5 @@ destroy:
 
   * Cleans up the environment after the job is completed.
 
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
 
 
